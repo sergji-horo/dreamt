@@ -1,0 +1,27 @@
+{
+  "target_dir": "/Users/sm.fedorov/Documents/dev/dreamt",
+  "repo_slug": "dreamt.github.io",
+  "app_name_en_full": "Dreamt: Dream Meanings",
+  "app_name_en_short": "Dreamt",
+  "app_name_ru_full": "Снилось",
+  "app_name_ru_short": "Снилось",
+  "support_email": "director@new-power-technology.com",
+  "icon_svg_path": "/Users/sm.fedorov/Documents/dev/dreamt/assets/img/icons/moon.svg",
+  "icon_filename": "moon.svg",
+  "year": "2026",
+  "last_updated_en": "September 1, 2026",
+  "last_updated_ru": "1 сентября 2026 г.",
+  "theme_comment": "Снилось (Dreamt: Dream Meanings) — лендинг. Цветовая палитра\n   взята из дизайна приложения в Figma («Камуфляжи | Кудряшова»,\n   раздел «Сонник»): глубокий тёмно-синий фон и лунно-голубой акцент.",
+  "palette": {
+    "bg": "#05101c",
+    "bg_soft": "#081826",
+    "bg_elevated": "#0c1b29",
+    "text_muted": "#9fb4c9",
+    "accent": "#6fd7ff",
+    "accent_2": "#4f6bff",
+    "violet": "#3b6fd0",
+    "violet_deep": "#1a3f7a",
+    "accent_text": "#04141f",
+    "btn_hover": "#9be4ff"
+  }
+}
