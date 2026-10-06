@@ -7,6 +7,7 @@
   "app_name_ru_short": "Снилось",
   "support_email": "director@new-power-technology.com",
   "company_name": "New power technology limited",
+  "repo_url": "git@github.com:sergji-horo/dreamt.git",
   "icon_svg_path": "/Users/sm.fedorov/Documents/dev/dreamt/assets/img/icons/moon.svg",
   "icon_filename": "moon.svg",
   "year": "2026",
